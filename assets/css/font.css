@@ -1,0 +1,55 @@
+@font-face {
+    font-family:"font1";
+    src: url(FONT/Designer.otf);
+}
+@font-face {
+    font-family:"font2";
+    src: url(FONT/Lexend\ Deca.ttf);
+}
+@font-face {
+    font-family:"font3";
+    src: url(FONT/Nunito-Medium.ttf);
+}
+@font-face {
+    font-family:"font4";
+    src: url(FONT/Playwrite.ttf);
+}
+@font-face {
+    font-family:"font5";
+    src: url(FONT/SpaceMono-Regular.ttf);
+}
+@font-face {
+    font-family:"font6";
+    src: url(FONT/Breakable.ttf);
+}
+@font-face {
+    font-family:"font7";
+    src: url(FONT/Nice\ Postman.ttf);
+}
+
+
+p,
+button,
+a,
+address{
+    font-family: "font2" !important;
+}
+h3{
+    font-family: "font3" !important;
+    font-weight:900;
+    color: #000;
+}
+
+.nav__logo,
+.footer__copy,
+.footer__logo{
+    font-family: "font1" !important;
+}
+.footer__copy{
+    font-size: 8px;
+}
+.nav__link,
+.footer__link{
+    font-family: "font4" !important;
+    font-weight: 500;
+}
