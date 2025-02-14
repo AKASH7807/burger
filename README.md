@@ -7,9 +7,9 @@ A modern and interactive burger ordering application designed to provide users w
 **Technologies Used:**
 
 - **HTML, CSS, JavaScript**: Core technologies for structure, styling, and interactivity.
-- 
+  
 - **ScrollReveal.js**: A library for revealing animations as users scroll through the page.
-- 
+  
 - **Fully Animated Interface**: Engaging animations enhance the user experience, making interactions smooth and intuitive.
   
 
